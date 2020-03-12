@@ -1,0 +1,23 @@
+{
+        "DeviceInfo":[
+        {
+                "id": "of:0000000000000001",
+                "Host": "22:97:bf:ce:ad:8a",
+                "Wired": "20:16:05:12:01:42",
+                "Wired_interface_name": "eth2",
+                "Wifi": "90:9f:33:e9:90:77",
+                "Wifi_interface_name": "wlan2",
+                "MH": "NONE",
+                "MH_interface_name": "NONE"
+        },{
+                "id": "of:0000000000000002",
+                "Host": "6a:5f:6c:b9:fa:11",
+                "Wired": "b8:27:eb:65:db:03",
+                "Wired_interface_name": "enxb827eb65db03",
+                "Wifi": "b8:27:eb:30:8e:56",
+                "Wifi_interface_name": "wlx909f33eb0ac2",
+                "MH": "NONE",
+                "MH_interface_name": "NONE"
+        }
+        ]
+}
